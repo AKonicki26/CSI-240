@@ -1,0 +1,27 @@
+C:\Users\thecr\source\repos\Werewolf Bot\Werewolf Bot\bin\Debug\net6.0\Werewolf Bot.exe
+C:\Users\thecr\source\repos\Werewolf Bot\Werewolf Bot\bin\Debug\net6.0\Werewolf Bot.deps.json
+C:\Users\thecr\source\repos\Werewolf Bot\Werewolf Bot\bin\Debug\net6.0\Werewolf Bot.runtimeconfig.json
+C:\Users\thecr\source\repos\Werewolf Bot\Werewolf Bot\bin\Debug\net6.0\Werewolf Bot.dll
+C:\Users\thecr\source\repos\Werewolf Bot\Werewolf Bot\bin\Debug\net6.0\Werewolf Bot.pdb
+C:\Users\thecr\source\repos\Werewolf Bot\Werewolf Bot\bin\Debug\net6.0\Discord.Net.Commands.dll
+C:\Users\thecr\source\repos\Werewolf Bot\Werewolf Bot\bin\Debug\net6.0\Discord.Net.Core.dll
+C:\Users\thecr\source\repos\Werewolf Bot\Werewolf Bot\bin\Debug\net6.0\Discord.Net.Interactions.dll
+C:\Users\thecr\source\repos\Werewolf Bot\Werewolf Bot\bin\Debug\net6.0\Discord.Net.Rest.dll
+C:\Users\thecr\source\repos\Werewolf Bot\Werewolf Bot\bin\Debug\net6.0\Discord.Net.Webhook.dll
+C:\Users\thecr\source\repos\Werewolf Bot\Werewolf Bot\bin\Debug\net6.0\Discord.Net.WebSocket.dll
+C:\Users\thecr\source\repos\Werewolf Bot\Werewolf Bot\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\thecr\source\repos\Werewolf Bot\Werewolf Bot\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\thecr\source\repos\Werewolf Bot\Werewolf Bot\bin\Debug\net6.0\System.Interactive.Async.dll
+C:\Users\thecr\source\repos\Werewolf Bot\Werewolf Bot\bin\Debug\net6.0\System.Linq.Async.dll
+C:\Users\thecr\source\repos\Werewolf Bot\Werewolf Bot\bin\Debug\net6.0\System.Reactive.dll
+C:\Users\thecr\source\repos\Werewolf Bot\Werewolf Bot\obj\Debug\net6.0\Werewolf Bot.csproj.AssemblyReference.cache
+C:\Users\thecr\source\repos\Werewolf Bot\Werewolf Bot\obj\Debug\net6.0\Werewolf Bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thecr\source\repos\Werewolf Bot\Werewolf Bot\obj\Debug\net6.0\Werewolf Bot.AssemblyInfoInputs.cache
+C:\Users\thecr\source\repos\Werewolf Bot\Werewolf Bot\obj\Debug\net6.0\Werewolf Bot.AssemblyInfo.cs
+C:\Users\thecr\source\repos\Werewolf Bot\Werewolf Bot\obj\Debug\net6.0\Werewolf Bot.csproj.CoreCompileInputs.cache
+C:\Users\thecr\source\repos\Werewolf Bot\Werewolf Bot\obj\Debug\net6.0\Werewolf Bot.csproj.CopyComplete
+C:\Users\thecr\source\repos\Werewolf Bot\Werewolf Bot\obj\Debug\net6.0\Werewolf Bot.dll
+C:\Users\thecr\source\repos\Werewolf Bot\Werewolf Bot\obj\Debug\net6.0\refint\Werewolf Bot.dll
+C:\Users\thecr\source\repos\Werewolf Bot\Werewolf Bot\obj\Debug\net6.0\Werewolf Bot.pdb
+C:\Users\thecr\source\repos\Werewolf Bot\Werewolf Bot\obj\Debug\net6.0\Werewolf Bot.genruntimeconfig.cache
+C:\Users\thecr\source\repos\Werewolf Bot\Werewolf Bot\obj\Debug\net6.0\ref\Werewolf Bot.dll

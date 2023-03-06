@@ -1,0 +1,3 @@
+﻿  Operator Notes.cpp
+C:\Users\thecr\source\repos\Operator Notes\Operator Notes\Operator Notes.cpp(41): warning C4717: 'operator>>': recursive on all control paths, function will cause runtime stack overflow
+  Operator Notes.vcxproj -> C:\Users\thecr\source\repos\Operator Notes\x64\Debug\Operator Notes.exe

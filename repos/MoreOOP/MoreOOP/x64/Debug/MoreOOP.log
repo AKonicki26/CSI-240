@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\thecr\source\repos\MoreOOP\MoreOOP\main.cpp(5,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\thecr\source\repos\MoreOOP\MoreOOP\main.cpp(8,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\thecr\source\repos\MoreOOP\MoreOOP\main.cpp(11,15): error C2665: 'Product::Product': no overloaded function could convert all the argument types
+C:\Users\thecr\source\repos\MoreOOP\MoreOOP\market.h(20,1): message : could be 'Product::Product(Product &&)'
+C:\Users\thecr\source\repos\MoreOOP\MoreOOP\main.cpp(11,15): message : 'Product::Product(Product &&)': cannot convert argument 1 from 'const char [14]' to 'Product &&'
+C:\Users\thecr\source\repos\MoreOOP\MoreOOP\main.cpp(11,16): message : Reason: cannot convert from 'const char [14]' to 'Product'
+C:\Users\thecr\source\repos\MoreOOP\MoreOOP\main.cpp(11,16): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\thecr\source\repos\MoreOOP\MoreOOP\market.h(20,1): message : or       'Product::Product(const Product &)'
+C:\Users\thecr\source\repos\MoreOOP\MoreOOP\main.cpp(11,15): message : 'Product::Product(const Product &)': cannot convert argument 1 from 'const char [14]' to 'const Product &'
+C:\Users\thecr\source\repos\MoreOOP\MoreOOP\main.cpp(11,16): message : Reason: cannot convert from 'const char [14]' to 'const Product'
+C:\Users\thecr\source\repos\MoreOOP\MoreOOP\main.cpp(11,16): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\thecr\source\repos\MoreOOP\MoreOOP\main.cpp(11,15): message : while trying to match the argument list '(const char [14])'

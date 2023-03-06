@@ -1,0 +1,5 @@
+﻿  Dynamic Array.cpp
+C:\Users\thecr\source\repos\Dynamic Array\Dynamic Array\Dynamic Array.cpp(8,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  functions.cpp
+  Generating Code...
+  Dynamic Array.vcxproj -> C:\Users\thecr\source\repos\Dynamic Array\x64\Debug\Dynamic Array.exe
